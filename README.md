@@ -1,7 +1,7 @@
 #Weight Converter
 
 Weight Converter es un modulo que nos proporcióna las herramientas para
-convertir unidades de peso, de kios a libras y de libras a kilos, este modulo
+convertir unidades de peso, de kilos a libras y de libras a kilos, este modulo
 es parate del [Curso de Fundamentos de JavaScript](https://platzi.com/js) de [Platzi](https://platzi.com), el mejor lugar de educación online
 
 ## Instalación
